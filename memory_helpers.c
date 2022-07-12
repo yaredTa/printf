@@ -20,7 +20,7 @@ buffer_t *init_buffer(void);
 
  * @src: A pointer to the memory area to copy.
 
- * @n: The number of bytes to be copied.
+ * @n: The numbers of bytes to be copied.
 
  *
 

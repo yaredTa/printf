@@ -25,7 +25,7 @@ unsigned int print_neg_width(buffer_t *output, unsigned int printed,
 
  * @flags: Flag modifiers.
 
- * @wid: A width modifier.
+ * @wid: A width modifiers.
 
  *
 
